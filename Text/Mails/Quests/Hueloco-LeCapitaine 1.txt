@@ -1,0 +1,1 @@
+/oxygenop mail -send @p 0 {Merci pour ton aide.} {Tu devrais revenir me voir. J'ai un plan pour la suite.}
